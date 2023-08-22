@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Sketch identifiction"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wrist no jutsu"
+	}
+}

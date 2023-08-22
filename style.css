@@ -1,0 +1,32 @@
+
+body{
+    background-size: cover;
+}
+
+.header{
+    box-shadow: 15px;
+    background-color: rgba(74, 221, 165, 0.699);
+
+    margin-top: 10px;
+
+}
+
+.footer{
+    font-style: italic;
+    border-radius: 30%;
+color: azure;
+    border-color: black;
+    float: bottom;
+    background-color: rgba(51, 7, 198, 0.936);
+    position: fixed;
+    bottom: 0;    
+}
+
+.canvas{
+    border-width: 15px;
+    border-color: black;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 10cm;
+    margin-bottom: 7cm;
+}
